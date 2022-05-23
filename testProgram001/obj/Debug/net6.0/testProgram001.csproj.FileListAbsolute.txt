@@ -1,0 +1,15 @@
+C:\Projects\CPD\testProgram001\bin\Debug\net6.0\testProgram001.exe
+C:\Projects\CPD\testProgram001\bin\Debug\net6.0\testProgram001.deps.json
+C:\Projects\CPD\testProgram001\bin\Debug\net6.0\testProgram001.runtimeconfig.json
+C:\Projects\CPD\testProgram001\bin\Debug\net6.0\testProgram001.dll
+C:\Projects\CPD\testProgram001\bin\Debug\net6.0\testProgram001.pdb
+C:\Projects\CPD\testProgram001\obj\Debug\net6.0\testProgram001.csproj.AssemblyReference.cache
+C:\Projects\CPD\testProgram001\obj\Debug\net6.0\testProgram001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CPD\testProgram001\obj\Debug\net6.0\testProgram001.AssemblyInfoInputs.cache
+C:\Projects\CPD\testProgram001\obj\Debug\net6.0\testProgram001.AssemblyInfo.cs
+C:\Projects\CPD\testProgram001\obj\Debug\net6.0\testProgram001.csproj.CoreCompileInputs.cache
+C:\Projects\CPD\testProgram001\obj\Debug\net6.0\testProgram001.dll
+C:\Projects\CPD\testProgram001\obj\Debug\net6.0\refint\testProgram001.dll
+C:\Projects\CPD\testProgram001\obj\Debug\net6.0\testProgram001.pdb
+C:\Projects\CPD\testProgram001\obj\Debug\net6.0\testProgram001.genruntimeconfig.cache
+C:\Projects\CPD\testProgram001\obj\Debug\net6.0\ref\testProgram001.dll
