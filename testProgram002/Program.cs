@@ -14,9 +14,7 @@ namespace CPD
 
         static void interactiveText() {         
 
-
-            Console.WriteLine("What Letter Grade did you get?");
-          
+            Console.WriteLine("What Letter Grade did you get?");     
             char grade = Convert.ToChar(Console.ReadLine().ToUpper());
             
             switch (grade) {

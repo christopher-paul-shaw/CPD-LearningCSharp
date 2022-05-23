@@ -1,0 +1,2 @@
+- Program Opens in Terminal expecting user Input
+- Takes Letter input to define output using a statement
