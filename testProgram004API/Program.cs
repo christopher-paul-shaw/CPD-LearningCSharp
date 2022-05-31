@@ -20,6 +20,10 @@ if (app.Environment.IsDevelopment())
 app.MapGet("/", () => "THIS IS A GET RESPONSE");
 app.MapPost("/", () => "THIS IS A POST RESPONSE")
 
+
+
+
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
