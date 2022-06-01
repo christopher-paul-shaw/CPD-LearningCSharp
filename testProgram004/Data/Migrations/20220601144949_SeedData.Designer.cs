@@ -12,8 +12,8 @@ using testProgram004.Data;
 namespace testProgram004.Migrations
 {
     [DbContext(typeof(DatabaseContext))]
-    [Migration("20220601132530_InitialDB")]
-    partial class InitialDB
+    [Migration("20220601144949_SeedData")]
+    partial class SeedData
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -26,11 +26,11 @@ namespace testProgram004.Migrations
 
             modelBuilder.Entity("testProgram004.Data.Entities.Customer", b =>
                 {
-                    b.Property<int?>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int?>("Id"), 1L, 1);
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
@@ -50,6 +50,17 @@ namespace testProgram004.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Customer");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Email = "tttestington@emailprovider.com",
+                            Firstname = "Test",
+                            Lastname = "Testington",
+                            Middlename = "T",
+                            Title = "Mr"
+                        });
                 });
 
             modelBuilder.Entity("testProgram004.Data.Entities.CustomerAddress", b =>

@@ -3,4 +3,13 @@
     ViewBag.Title = "Home";
 }
 
+
 Hello World, see <a href="/App/Page2">Page 2</a>
+
+
+<ul>
+@foreach (var c in Model)
+{
+    <li>@c.Title</li>
+}
+</ul>
