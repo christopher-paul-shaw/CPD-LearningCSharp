@@ -13,23 +13,12 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
-
 app.UseRouting();
-
-
-
 app.UseEndpoints(cfg => cfg.MapControllerRoute(
     "Default",
     "/{controller}/{action}/{id?}",
     new { controller = "App", action = "Index" } 
 ));
-
-
-
-
-
 app.Run();
