@@ -31,7 +31,19 @@ namespace testProgram004.Data
 				Middlename = "T",
 				Lastname = "Testington",
 				Email = "tttestington@emailprovider.com"
-			});
+			},
+			new Customer()
+			{
+				Id = 2,
+				Title = "Mrs",
+				Firstname = "Test",
+				Middlename = "T",
+				Lastname = "Testington",
+				Email = "tttestington@emailprovider.com"
+			}
+			
+			
+			);
 		} 
     }
 }

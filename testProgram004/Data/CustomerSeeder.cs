@@ -25,10 +25,6 @@ namespace testProgram004.Data
                 _context.Customer.AddRange(customers);
                 _context.SaveChanges();
             }
-            
-
-
-
 
         }
     }
