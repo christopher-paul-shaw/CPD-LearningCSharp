@@ -19,6 +19,6 @@ app.UseRouting();
 app.UseEndpoints(cfg => cfg.MapControllerRoute(
     "Default",
     "/{controller}/{action}/{id?}",
-    new { controller = "App", action = "Index" } 
+    new { controller = "Customer", action = "Index" } 
 ));
 app.Run();

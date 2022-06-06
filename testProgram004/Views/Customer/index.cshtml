@@ -1,0 +1,32 @@
+
+@{
+    ViewBag.Title = "Home";
+}
+
+
+
+<table>
+    <thead>
+        <th>Id</th></th><th>Customer</th>
+    </thead>
+
+
+
+<tbody>
+@foreach (var c in Model)
+{
+    <tr>
+        <th>
+            @c.Id
+        </th>
+        <th>
+            <a href="/customer/show/@c.Id">@c.Title @c.Firstname @c.Lastname</a>
+        </th>
+
+    </tr>
+}
+</tbody>
+
+
+
+</table>

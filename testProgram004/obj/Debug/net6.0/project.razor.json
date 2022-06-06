@@ -16308,16 +16308,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Projects\\CPD\\testProgram004\\Views\\App\\index.cshtml",
-      "TargetPath": "Views\\App\\index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Projects\\CPD\\testProgram004\\Views\\App\\page2.cshtml",
-      "TargetPath": "Views\\App\\page2.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Projects\\CPD\\testProgram004\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
@@ -16335,6 +16325,16 @@
     {
       "FilePath": "c:\\Projects\\CPD\\testProgram004\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Projects\\CPD\\testProgram004\\Views\\Customer\\show.cshtml",
+      "TargetPath": "Views\\Customer\\show.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Projects\\CPD\\testProgram004\\Views\\Customer\\index.cshtml",
+      "TargetPath": "Views\\Customer\\index.cshtml",
       "FileKind": "mvc"
     },
     {

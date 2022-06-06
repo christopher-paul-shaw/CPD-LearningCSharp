@@ -39,12 +39,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/CPD/testProgram004/Views/App/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXGluZGV4LmNzaHRtbA==
+[C:/Projects/CPD/testProgram004/Views/Customer/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/CPD/testProgram004/Views/App/page2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXHBhZ2UyLmNzaHRtbA==
+[C:/Projects/CPD/testProgram004/Views/Customer/show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcc2hvdy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Projects/CPD/testProgram004/Views/Shared/_Layout.cshtml]
