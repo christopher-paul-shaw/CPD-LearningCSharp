@@ -1,0 +1,1 @@
+Tutorial From https://jasonwatmore.com/post/2022/02/04/net-6-minimal-api-tutorial-and-example
